@@ -1,0 +1,22 @@
+body{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    align-content: center;
+    justify-content: center;
+}
+form{
+    height: 300px;
+    width:200px;
+    border:2px solid black;
+    margin-left: 300px;
+    margin-top:125px;
+    padding:5px;
+    justify-content: center;
+    align-content: center;
+}
+ input{
+    align-content: center;
+    margin:3px;
+    padding:5px;
+ }
